@@ -28,8 +28,8 @@ def ask_question(prompt):
 
 def process_sets():
     for set_num in range(1, 6):
-        prompt_file_path = f'/Users/adrita/Downloads/Personality_tests/PROMPTS/ASI_PROMPT.txt' #put your own file path
-        response_file_path = f'/Users/adrita/Downloads/Personality_tests/RESPONSES/ASI_0.5/response_ASI_0.5_{set_num}.txt' #put your own file path
+        prompt_file_path = f'/Users/adrita/PROMPTS/ASI_PROMPT.txt' #put your own file path
+        response_file_path = f'/Users/adrita/RESPONSES/ASI_0.5/response_ASI_0.5_{set_num}.txt' #put your own file path
 
         # Read the contents of the prompt
         text = read_text_file(prompt_file_path)
