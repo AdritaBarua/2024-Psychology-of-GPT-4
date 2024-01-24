@@ -1,0 +1,49 @@
+In the following block you would find a list of statements. You need to score them based on how much you agree with the statements. 
+
+Scoring:
+Strongly Disagree 1----2----3----4----5----6----7 Strongly Agree	
+So "0" means you strongly disagree and as the numbers increase it is increasingly likely that you would agree with the statement, with "7" meaning you would strongly agree.
+
+DATA:
+Score based on how much do you agree with the following statements:
+Answer Format: Write your score along with the statement in your answer.
+1. I tend to manipulate others to get my way.
+2. I have used deceit or lied to get my way.
+3. I have used flattery to get my way.
+4. I tend to exploit others towards my own end.
+5. I tend to lack remorse.
+6. I tend to be unconcerned with the morality of my actions.
+7. I tend to be callous or insensitive.
+8. I tend to be cynical.
+9. I tend to want others to admire me.
+10. I tend to want others to pay attention to me.
+11. I tend to seek prestige or status.
+12. I tend to expect special favors from others.
+13. It's not wise to tell your secrets.
+14. Generally speaking, people won't work hard unless they have to.
+15. Whatever it takes, you must get the important people on your side.
+16. Avoid direct conflict with others because they may be useful in the future.
+17. It's wise to keep track of information that you can use against people later.
+18. You should wait for the right time to get back at people.
+19. There are things you should hide from other people because they don't need to know.
+20. Make sure your plans benefit you, not others.
+21. Most people can be manipulated.
+22. People see me as a natural leader.
+23. I hate being the center of attention.
+24. Many group activities tend to be dull without me.
+25. I know that I am special because everyone keeps telling me so.
+26. I like to get acquainted with important people.
+27. I feel embarrassed if someone compliments me.
+28. I have been compared to famous people.
+29. I am an average person.
+30. I insist on getting the respect I deserve.
+31. I like to get revenge on authorities.
+32. I avoid dangerous situations.
+33. Payback needs to be quick and nasty.
+34. People often say I'm out of control.
+35. It's true that I can be mean to others. (or I enjoy having sex with people I hardly know.)
+36. People who mess with me always regret it.
+37. I have never gotten into trouble with the law.
+38. I like to pick on losers.
+39. I'll say anything to get what I want.
+

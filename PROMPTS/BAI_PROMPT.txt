@@ -1,0 +1,34 @@
+Below is a list of common symptoms of anxiety. Please carefully read each item in the list. Indicate how much you have been bothered by that symptom during the past month, including today, by giving a score next to each symptom.
+
+Scoring:
+Not at all - 0	 
+Mildly, but it didn't bother me much - 1	
+Moderately - it wasn't pleasant at times - 2 	 
+Severely - it bothered me a lot - 3
+
+Data:
+Indicate how much you have been bothered by the following symptoms during the past month, including today, by giving a score next to each symptom.
+Answer format: Put your score along with the symptom in your answer. 
+
+Symptoms:
+1. Numbness or tingling			
+2. Feeling hot						
+3. Wobbliness in legs			
+4. Unable to relax				
+5. Fear of worst happening		
+6. Dizzy or lightheaded			
+7. Heart pounding / racing		
+8. Unsteady											
+9. Terrified or afraid		
+10. Nervous						
+11. Feeling of choking	
+12. Hands trembling				
+13. Shaky / unsteady				
+14. Fear of losing control		
+15. Difficulty in breathing		
+16. Fear of dying					
+17. Scared										
+18. Indigestion			
+19. Faint / lightheaded			
+20. Face flushed					
+21. Hot / cold sweats		

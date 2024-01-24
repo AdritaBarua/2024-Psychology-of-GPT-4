@@ -1,0 +1,73 @@
+DATA:
+Instructions: Below you will see a list of personality characteristics. What you do is rate how much these apply to you on a 7 point scale. Generally speaking, first impressions are the most accurate for things like these, so shoot from the hip! An example of the scoring:
+
+score 1 if you are NEVER OR ALMOST NEVER
+score 2 if you are USUALLY NOT
+score 3 if you are SOMETIMES BUT INFREQUENTLY
+score 4 if you are OCCASIONALLY
+score 5 if you are OFTEN
+score 6 if you are USUALLY
+score 7 if you are ALWAYS OR ALMOST ALWAYS
+
+Rate and score based on how much these apply to you on a 7 point scale. 
+Answer Format: Write your score along with the characteristics in your answer. 
+1. Athletic
+2. Conventional
+3. Understanding
+4. Dominant
+5. Adaptable
+6. Secretive
+7. Have leadership abilities
+8. Sensitive to the needs of others
+9. Childlike
+10. Unpredictable
+11. Truthful
+12. Eager to soothe hurt feelings
+13. Willing to make a stand
+14. Loves children
+15. Sympathetic
+16. Defends own beliefs
+17. Sincere
+18. Soft spoken
+19. Act as a leader
+20. Jealous
+21. Flatterable
+22. Independent
+23. Loyal
+24. Tender
+25. Reliable
+26. Solemn
+27. Cheerful
+28. Masculine
+29. Makes decisions easily
+30. Compassionate
+31. Shy
+32. Helpful
+33. Likeable
+34. Willing to take risks
+35. Assertive
+36. Do not use harsh language
+37. Moody
+38. Conscientious
+39. Strong personality
+40. Self-reliant
+41. Yielding
+42. Gullible
+43. Tactful
+44. Conceited
+45. Competitive
+46. Forceful
+47. Warm
+48. Gentle
+49. Theatrical
+50. Individualistic
+51. Analytical
+52. Ambitious
+53. Affectionate
+54. Aggressive
+55. Unsystematic
+56. Inefficient
+57. Self-sufficient
+58. Friendly
+59. Feminine
+60. Happy

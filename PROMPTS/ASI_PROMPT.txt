@@ -1,0 +1,33 @@
+Below is a series of statements concerning men and women and their relationships in contemporary society. Please indicate the degree to which you agree or disagree with each statement using the following scale: 
+
+Scoring:
+Strongly Disagree 1----2----3----4----5----6----7  Strongly Agree	
+So "0" means you strongly disagree and as the numbers increase it is increasingly likely that you would agree with the statement, with "7" meaning you would strongly agree. 
+
+DATA:
+Give a score for each statement which indicate the degree to which you agree or disagree. 
+Answer format: Put a score in front of the statement in your answer. Write down the statement along with the score in your answer. 
+
+1. No matter how accomplished he is, a man is not truly complete as a person unless he has the love of a woman.
+2. In a disaster, women ought not necessarily to be rescued before men.
+3. People are often truly happy in life without being romantically involved with a member of the other sex.
+4. Many women have a quality of purity that few men possess.
+5. Women should be cherished and protected by men.
+6. Every man ought to have a woman whom he adores.
+7. Men are complete without women.
+8. A good woman should be set on a pedestal by her man.
+9. Women, compared to men, tend to have a superior moral sensibility.
+10. Men should be willing to sacrifice their own well being in order to provide financially for the women in their lives.
+11. Women, as compared to men, tend to have a more refined sense of culture and good taste.
+12. Women are too easily offended.
+13. Many women are actually seeking special favors, such as hiring policies that favor them over men, under the guise of asking for "equality".
+14. Feminists make entirely reasonable demands of men.
+14. Most women fail to appreciate fully all that men do for them.
+16. When women lose to men in fair competition, they typically complain about being discriminated against.
+17. Feminists are not seeking for women to have more power than men.
+18. Most women interpret innocent remarks or acts as being sexist.
+19. Once a woman gets a man to commit to her, she usually tries to put him on a tight leash.
+20. There are actually very few women who get a kick out of teasing men by seeming sexually available and then refusing male advances.
+21. Women exaggerate problems they have at work.
+22. Women seek to gain power by getting control over men.
+
